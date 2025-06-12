@@ -71,6 +71,9 @@
 - Update `cable_thread.py` with your specific hardware details if different from those described in Supplementary Fig. 6.
 - Run the Python script.
 
+## 5. Vision-based sliputure and slipknot detection system
+-Due to storage limitations, the code and training dataset related to the vision-based sliputure and slipknot detection system have been made available on our [project website](https://sites.google.com/view/slipknotnet). 
+
 ### (OPTIONAL) Reproduction instructions
 - To reproduce all quantitative results in the manuscript, ensure all software versions and dependencies match those listed in the system requirements.
 - Follow the demo instructions precisely, using the provided dataset and scripts.
